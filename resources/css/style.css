@@ -1,0 +1,36 @@
+.title {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+h1,p,a {
+  font-family: verdana;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 42px;
+}
+body {
+  background-color: black;
+}
+.personal {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.excursion {
+  font-size: 21px;
+  color: gray;
+}
+.footer p {
+  text-align: right !important;
+  color: gray;
+  font-size: 21px;
+}
